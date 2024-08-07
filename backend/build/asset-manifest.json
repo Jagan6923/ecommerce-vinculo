@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.079f1887.css",
+    "main.js": "/static/js/main.c62360b6.js",
+    "static/media/cod.svg": "/static/media/cod.7cbb5e08c5de48adbc2edbc1e954be43.svg",
+    "static/media/phonepe.svg": "/static/media/phonepe.560c63952e425af55af80cd4d494ed71.svg",
+    "static/media/amazon-pay.svg": "/static/media/amazon-pay.f599e3016f6ae4c978f5ed163f356f78.svg",
+    "static/media/instagram.svg": "/static/media/instagram.d7a1c0edc668087857a904cbd1fb0fa7.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.a1d47355dc44c1ee595df5d35a27a365.svg",
+    "static/media/paytm.svg": "/static/media/paytm.a105b2a75305420c22fa72a349257321.svg",
+    "static/media/google-pay.svg": "/static/media/google-pay.b1d2f2a111a2f792233c10265d1f0cbd.svg",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.69e4ca96a2b2b7195087d8d3e56f8dd6.svg",
+    "static/media/facebook.svg": "/static/media/facebook.c6497cfad44bf6d8daaf64b0948540de.svg",
+    "main.079f1887.css.map": "/static/css/main.079f1887.css.map",
+    "main.c62360b6.js.map": "/static/js/main.c62360b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.079f1887.css",
+    "static/js/main.c62360b6.js"
+  ]
+}
